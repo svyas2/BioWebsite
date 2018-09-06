@@ -1,0 +1,47 @@
+body { 
+	background-color:white;
+	background-image: url("background.jpg");
+	font-size:150%;
+	color:black;
+	font-family:Verdana, Geneva, sans-serif;
+}
+h1 {
+	color : black;
+}
+h2 {
+	color:black;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+}
+.right {
+	display: block;
+	margin-left: auto;
+	margin-right: 0%;
+	width: 25%;
+}
+a:hover {
+	color: hotpink;
+}
+td, th {
+	border: 1px solid #dddddd;
+	text-align: right;
+	padding: 8px;
+}
+tr:nth-child(even) {
+	background-color: #dddddd;
+}
+	
+
+
+
+
+
+
+
+
+
+
